@@ -13,6 +13,7 @@
 
 // Principle 1
 // code example for Window Binding
+'use strict';
 function learningJS(topic) {
     console.log(this)
     return topic;
